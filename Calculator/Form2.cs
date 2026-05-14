@@ -10,24 +10,19 @@ using System.Windows.Forms;
 
 namespace Calculator
 {
-    public partial class Form1 : Form
+    public partial class Form2 : Form
     {
-        public Form1()
+        public Form2()
         {
             InitializeComponent();
         }
 
-        private void lblX2_Click(object sender, EventArgs e)
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void tbLength_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void lblSubtitle_Click(object sender, EventArgs e)
+        private void lblSizeValue_Click(object sender, EventArgs e)
         {
 
         }
